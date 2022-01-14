@@ -1,3 +1,3 @@
 # pay-here
 - Java Spring-boot
-- mysql:5.7
+- mysql 5.7
