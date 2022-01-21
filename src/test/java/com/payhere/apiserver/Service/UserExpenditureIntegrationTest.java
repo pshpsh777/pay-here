@@ -28,7 +28,6 @@ public class UserExpenditureIntegrationTest {
     private final Long userId = 1L;
 
     @Test
-    @Commit
     void addUserExpenditureTest() {
         //given
         Expenditure expenditure = new Expenditure();
